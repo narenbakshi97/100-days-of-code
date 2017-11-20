@@ -3,7 +3,7 @@
 ### Day 0: November 20, 2017 Monday
 ##### (Chrome Extensions via Coding Train)
 
-**Today's Progress**: Tried to make a private youtube site kind of bookmarklet but not done due to getting too much DOM errors.
+**Today's Progress**: Tried to made a private youtube site kind of bookmarklet but not done due to getting too much DOM errors.
 
 **Thoughts:** Parsing the DOM and finding the intended DIVs throung getElementsByClassName was a tedious task. Got some of the results like all images turned to my videos thumbnail and links also but not opening my url :< yet! Will fix it tomorrow.
 
