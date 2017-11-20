@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
-### Day 0: November 20, 2017 Monday (Chrome Extensions via Coding Train)
-##### (delete me or comment me out)
+### Day 0: November 20, 2017 Monday
+##### (Chrome Extensions via Coding Train)
 
 **Today's Progress**: Tried to make a private youtube site kind of bookmarklet but not done due to getting too much DOM errors.
 
