@@ -17,3 +17,12 @@
 **Thoughts:** Used the idea from w3 portfolio page. It was a good experiance in terms of writing down my thoughts without formatting them and coding and styling step by step. 
 
 **Link to work:** [Day 2 Portfolio](https://codepen.io/narenbakshi97/full/NwYNrB/)
+
+### Day 2: NOvember 22, 2017 Wednesday
+##### (30Days30Sites Event Invitation Day 2)
+
+**Today's Progress**: Made the front End of the night sky watching event invitation site using html5+css+js+bootstrap
+
+**Thoughts:** Got so much frustrated with the footer problem and content problem. Took too long to made this so need more improvement in case of margins and paddings it was also time consuming. 
+
+**Link to work:** [Day 3 Event Invitation Site(FrontEnd)](https://codepen.io/narenbakshi97/full/wPjzMK/)
