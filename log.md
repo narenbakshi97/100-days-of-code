@@ -26,3 +26,12 @@
 **Thoughts:** Got so much frustrated with the footer problem and content problem. Took too long to made this so need more improvement in case of margins and paddings it was also time consuming. 
 
 **Link to work:** [Day 3 Event Invitation Site(FrontEnd)](https://codepen.io/narenbakshi97/full/wPjzMK/)
+
+### Day 3: NOvember 23, 2017 Thursday
+##### (30Days30Sites Tourist Attraction Day 3)
+
+**Today's Progress**: Made the front End of a local tourist attraction site's website using html5+css+js+bootstrap
+
+**Thoughts:** Feeling better then yesterday. Coded a little bit fast but needs more improvement.
+
+**Link to work:** [Day 4 Tourist Attraction Site(FrontEnd)](https://codepen.io/narenbakshi97/full/rYKaWG/)
