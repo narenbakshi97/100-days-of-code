@@ -35,3 +35,9 @@
 **Thoughts:** Feeling better then yesterday. Coded a little bit fast but needs more improvement.
 
 **Link to work:** [Day 4 Tourist Attraction Site(FrontEnd)](https://codepen.io/narenbakshi97/full/rYKaWG/)
+
+### Day 4: December 1, 2017 Friday
+#### (#0DaysOfCode Day 14 Abstract Classes)
+
+**Today's Progress**: Learned how to define Abstract class in python
+**Thoughts:**Started according to my plans from today and now on will do the other 30days30 sites challenge separately
