@@ -40,12 +40,14 @@
 #### (30DaysOfCode Day 14 Abstract Classes)
 
 **Today's Progress**: Learned how to define Abstract class in python
+
 **Thoughts:** Started according to my plans from today and now on will do the other 30days30 sites challenge separately
 
 ### Day 5: December 3, 2017 Sunday
 #### (#100DaysOfCode TheOdinProject Web Development Course)
 
 **Today's Progress**: Got a new resource to learn about web development
+
 **Thoughts:** Will set it to timetable later
 
 
@@ -53,4 +55,5 @@
 #### (Codecademy Sass Tutorial)
 
 **Today's Progress**: Today I am going to complete Sass 
+
 **Thoughts:** Was waiting to learn it for so long
