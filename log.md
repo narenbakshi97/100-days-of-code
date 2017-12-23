@@ -50,6 +50,8 @@
 
 **Thoughts:** Will set it to timetable later
 
+**Link to work**: [The Odin Project](https://www.theodinproject.com/)
+
 
 ### Day 6: December 23, 2017 Saturday
 #### (Codecademy Sass Tutorial)
@@ -57,3 +59,5 @@
 **Today's Progress**: Today I am going to complete Sass 
 
 **Thoughts:** Was waiting to learn it for so long
+
+**Link to work:** [Sass Tutorials](https://www.codecademy.com/learn/learn-sass)
